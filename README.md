@@ -1,6 +1,6 @@
 # Revels'17
 
-Official android app for the annual technical fest "Revels'17" of Manipal Institute of Technology, Manipal, India.
+Official android app for the annual cultural and sports fest "Revels'17" of Manipal Institute of Technology, Manipal, India.
 
 Features:
 ==
